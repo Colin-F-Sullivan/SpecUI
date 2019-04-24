@@ -1,0 +1,19 @@
+C:\Users\JHentges\Desktop\AIContSample2\bin\Release\Sample2.exe
+C:\Users\JHentges\Desktop\AIContSample2\bin\Release\Sample2.pdb
+C:\Users\JHentges\Desktop\AIContSample2\obj\x86\Release\Sample2.csprojResolveAssemblyReference.cache
+C:\Users\JHentges\Desktop\AIContSample2\obj\x86\Release\Sample1.Form1.resources
+C:\Users\JHentges\Desktop\AIContSample2\obj\x86\Release\Sample1.FormDetect.resources
+C:\Users\JHentges\Desktop\AIContSample2\obj\x86\Release\Sample2.Properties.Resources.resources
+C:\Users\JHentges\Desktop\AIContSample2\obj\x86\Release\Sample2.csproj.GenerateResource.Cache
+C:\Users\JHentges\Desktop\AIContSample2\obj\x86\Release\Sample2.exe
+C:\Users\JHentges\Desktop\AIContSample2\obj\x86\Release\Sample2.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\bin\Release\Sample2.exe
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\bin\Release\Sample2.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Release\Sample1.Form1.resources
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Release\Sample1.FormDetect.resources
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Release\Sample2.Properties.Resources.resources
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Release\Sample2.csproj.GenerateResource.cache
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Release\Sample2.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Release\Sample2.exe
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Release\Sample2.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Release\Sample2.csprojAssemblyReference.cache

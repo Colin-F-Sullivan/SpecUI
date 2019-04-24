@@ -1,0 +1,20 @@
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\CountsToVolts\CountsToVolts\bin\Release\CountsToVolts.exe.config
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\CountsToVolts\CountsToVolts\bin\Release\CountsToVolts.exe
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\CountsToVolts\CountsToVolts\bin\Release\CountsToVolts.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.exe
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\SpecUI\C#\CountsToVolts\CountsToVolts\bin\Release\CountsToVolts.exe.config
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\SpecUI\C#\CountsToVolts\CountsToVolts\bin\Release\CountsToVolts.exe
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\SpecUI\C#\CountsToVolts\CountsToVolts\bin\Release\CountsToVolts.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\SpecUI\C#\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\SpecUI\C#\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.exe
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\SpecUI\C#\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\SpecUI\C#\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\CountsToVolts\CountsToVolts\bin\Release\CountsToVolts.exe.config
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\CountsToVolts\CountsToVolts\bin\Release\CountsToVolts.exe
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\CountsToVolts\CountsToVolts\bin\Release\CountsToVolts.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.exe
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\CountsToVolts\CountsToVolts\obj\Release\CountsToVolts.pdb

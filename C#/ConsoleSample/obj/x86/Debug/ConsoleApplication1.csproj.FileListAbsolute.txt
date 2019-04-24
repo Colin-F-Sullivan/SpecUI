@@ -1,0 +1,17 @@
+O:\CD\CDA\Disks\USB-AIx\Win32\ContAD\C#\ConsoleSample\obj\x86\Debug\ConsoleApplication1.exe
+O:\CD\CDA\Disks\USB-AIx\Win32\ContAD\C#\ConsoleSample\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+O:\CD\CDA\Disks\USB-AIx\Win32\ContAD\C#\ConsoleSample\bin\Debug\ConsoleApplication1.exe
+O:\CD\CDA\Disks\USB-AIx\Win32\ContAD\C#\ConsoleSample\bin\Debug\ConsoleApplication1.pdb
+O:\CD\CDA\Disks\USB-AIx\Win32\ContAD\C#\ConsoleSample\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\ConsoleSample\bin\Debug\ConsoleApplication1.exe
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\ConsoleSample\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\ConsoleSample\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\ConsoleSample\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\ConsoleSample\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Colin\Documents\MATLAB\ASTR 3560\TempExtract\ConsoleSample\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\ConsoleSample\bin\Debug\ConsoleApplication1.exe
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\ConsoleSample\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\ConsoleSample\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\ConsoleSample\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\ConsoleSample\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\ConsoleSample\obj\x86\Debug\ConsoleApplication1.pdb
