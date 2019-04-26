@@ -30,7 +30,7 @@ for i = 1:runs
         %Move back to end of track and reset
         writeDigitalPin(a,dir,1); % Put Direction Backwards
         stepCount = 0;
-        while (readVoltage(a,start) >= .3) || (stepCount > 4500)
+        while (readVoltage(a,start) >= .3)
             %While we arent at the start, move backwards
             writeDigitalPin(a,stp,1); %Step One
             stepCount = stepCount + 1;
@@ -46,7 +46,7 @@ for i = 1:runs
         % Advancing Motor at specified step size
         writeDigitalPin(a,dir,0); %Put Direction Forward
         stepCount = 0;
-        while (readVoltage(a,stop) >= .3) || (stepCount > 4500)
+        while (readVoltage(a,stop) >= .3)
             %While we arent at the end, advance
             writeDigitalPin(a,stp,1); %Step Forward One
             stepCount = stepCount + 1;
@@ -63,7 +63,7 @@ for i = 1:runs
         disp('LOG: Resetting starting position. . .');
         writeDigitalPin(a,dir,1); % Put Direction Backwards
         stepCount = 0;
-        while (readVoltage(a,start) >= .3) || (stepCount > 4500)
+        while (readVoltage(a,start) >= .3)
             %While we arent at the start, move backwards
             writeDigitalPin(a,stp,1); %Step One
             stepCount = stepCount + 1;
@@ -85,7 +85,7 @@ for i = 1:runs
         % Advancing Motor at specified step size
         writeDigitalPin(a,dir,0); %Put Direction Forward
         stepCount = 0;
-        while (readVoltage(a,stop) >= .3) || (stepCount > 4500)
+        while (readVoltage(a,stop) >= .3)
             %While we arent at the end, advance
             writeDigitalPin(a,stp,1); %Step Forward One
             stepCount = stepCount + 1;
@@ -102,7 +102,7 @@ for i = 1:runs
         disp('LOG: Resetting starting position. . .');
         writeDigitalPin(a,dir,1); % Put Direction Backwards
         stepCount = 0;
-        while (readVoltage(a,start) >= .3) || (stepCount > 4500)
+        while (readVoltage(a,start) >= .3)
             %While we arent at the start, move backwards
             writeDigitalPin(a,stp,1); %Step One
             stepCount = stepCount + 1;
