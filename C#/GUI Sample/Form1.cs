@@ -459,7 +459,7 @@ namespace Sample1
             timeStart.Start();
 
             // Change speed of aquisition here.
-            Hz = 400;
+            Hz = 250;
             AIOUSB.CTR_StartOutputFreq(DeviceIndex, 0, ref Hz);
 
             comboBoxCalibration.Enabled = false;

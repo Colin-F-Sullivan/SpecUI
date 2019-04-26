@@ -27,3 +27,13 @@ C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Debug\Samp
 C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample2.csproj.CoreCompileInputs.cache
 C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample2.exe
 C:\Users\Colin\Documents\MATLAB\ASTR3560\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample2.pdb
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\bin\Debug\Sample2.exe
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\bin\Debug\Sample2.pdb
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample2.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample1.Form1.resources
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample1.FormDetect.resources
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample2.Properties.Resources.resources
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample2.csproj.GenerateResource.cache
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample2.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample2.exe
+C:\Users\Colin\Documents\GitHub\SpecUI\C#\GUI Sample\obj\x86\Debug\Sample2.pdb
