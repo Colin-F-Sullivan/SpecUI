@@ -69,27 +69,30 @@ PlotSpectrum.Callback = @RunPlotSpectrum;
         direc = {direc.name};
         % Convery from counts to Volts (Calls C#)
         for i = 1:length(direc)
-            %Move to Folder where Counts2Volts will see this
-            source = [pwd() '\Data\' filename{1}];
-            destination = [pwd() '\C#\CountsToVolts\CountsToVolts\bin\Release\SpecUI_DAQ'];
-            movefile([source '\' direc{i}],destination);
-            specUI_Counts2Volts(direc{i});
-            %Check if this is finished, it not, WAIT
-            done = 0;
-            directemp = direc{i};
-            while done == 0
-                %Check if the file has been completed
-                if exist([destination '\Converted_' directemp(1:end-4) '.csv'],'file') ~= 0
-                    done = 1;
-                else
-                    pause(.5);
-                end
-            end
-            %Move it Back and move old file to converted
-            movefile([destination '\Converted_' directemp(1:end-4) '.csv'],source);
-            %movefile([destination '\Converted_' directemp(1:end-3) '.OPDIO'],source);
-            mkdir(['Data\' filename{1} '\'],[filename{1} '_Unconverted']); %Make Directory
-            movefile([destination '\' direc{i}],[source '\' filename{1} '_Unconverted']);
+            filepath = [pwd() '\Data\' filename{1} '\' direc{i}];
+            data = LoadData(filepath);
+            ParseandPlot(filepath);
+%             %Move to Folder where Counts2Volts will see this
+%             source = [pwd() '\Data\' filename{1}];
+%             destination = [pwd() '\C#\CountsToVolts\CountsToVolts\bin\Release\SpecUI_DAQ'];
+%             movefile([source '\' direc{i}],destination);
+%             specUI_Counts2Volts(direc{i});
+%             %Check if this is finished, it not, WAIT
+%             done = 0;
+%             directemp = direc{i};
+%             while done == 0
+%                 %Check if the file has been completed
+%                 if exist([destination '\Converted_' directemp(1:end-4) '.csv'],'file') ~= 0
+%                     done = 1;
+%                 else
+%                     pause(.5);
+%                 end
+%             end
+%             %Move it Back and move old file to converted
+%             movefile([destination '\Converted_' directemp(1:end-4) '.csv'],source);
+%             %movefile([destination '\Converted_' directemp(1:end-3) '.OPDIO'],source);
+%             mkdir(['Data\' filename{1} '\'],[filename{1} '_Unconverted']); %Make Directory
+%             movefile([destination '\' direc{i}],[source '\' filename{1} '_Unconverted']);
         end
         disp('SpecUI: Done Converting to Voltages');
     end
